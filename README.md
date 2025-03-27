@@ -10,7 +10,8 @@
 
 ###
 
-<p align="left">- I’m currently learning Rust, Kubernetes, and Zig<br><br>- All of my projects are available at https://ericd.vercel.app/</p>
+- I’m currently learning Rust, Kubernetes, and Zig
+- All of my projects are available at [https://ericd.vercel.app](https://ericd.vercel.app)
 
 ###
 
