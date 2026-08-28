@@ -1,7 +1,7 @@
 # Eric Du
 
 Hey 👋 I'm Eric. I'm a Software Engineer interested in AI/ML with experience in PLC, CV, Automation, and Infrastructure. My favorite languages are
-**Rust** 🦀, **Python**, and **C#**. Some of my work led me to protocol reverse engineering,
+**Rust**, **Python**, and **C#**. Some of my work led me to protocol reverse engineering,
 developer tooling, machine vision, and systems that touch physical hardware.
 
 SWE @ [Symmetry Laser](https://symmetrylaser.com) --- Prev SWE @ [UC Davis Plant Sciences](https://www.plantsciences.ucdavis.edu/), [AggieWorks](https://aggieworks.org) --- BS CS @ UC Davis
