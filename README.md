@@ -6,7 +6,7 @@ developer tooling, machine vision, and systems that touch physical hardware.
 
 SWE @ [Symmetry Laser](https://symmetrylaser.com) - Prev SWE @ [UC Davis Plant Sciences](https://www.plantsciences.ucdavis.edu/), [AggieWorks](https://aggieworks.org) - BS CS @ UC Davis
 
-🌐 **Website:** [website](https://ericdoo.com/) - 🇱 **LinkedIn:** [**Eric Du**](https://www.linkedin.com/in/ericdu602) - ✉️ **Email:** [**ericdu602@gmail.com**](mailto:ericdu602@gmail.com)
+🌐 **Website:** [ericdoo.com](https://ericdoo.com/) - 🇱 **LinkedIn:** [**Eric Du**](https://www.linkedin.com/in/ericdu602) - ✉️ **Email:** [**ericdu602@gmail.com**](mailto:ericdu602@gmail.com)
 ### Currently
 
 Going deeper on **AI/ML** chains and **Kubernetes**. Interested in creating a home lab.
